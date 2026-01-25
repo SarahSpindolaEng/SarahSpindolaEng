@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h4 align="center">Transformando dados em ideias, ideias em soluções.<br>Engenheira de Dados em constante evolução, trabalhando com Python, SQL e análise de dados, enquanto aprendo e exploro serviços da AWS Cloud.<br>Este GitHub é meu cantinho para projetos, estudos e descobertas 🚀✨</h4>
+<p align="center">Transformando dados em ideias, ideias em soluções.<br>Engenheira de Dados em constante evolução, trabalhando com Python, SQL e análise de dados, enquanto aprendo e exploro serviços da AWS Cloud.<br>Este GitHub é meu cantinho para projetos, estudos e descobertas 🚀✨</p>
 
 ###
 
