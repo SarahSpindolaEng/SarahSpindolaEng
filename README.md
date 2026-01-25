@@ -7,14 +7,14 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=10&section=footer&reversal=false&fontColor=FFFFFF&fontAlign=10&fontAlignY=10&stroke=-&descSize=0&descAlign=2&descAlignY=2&color=gradient"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h5 align="center">Transformando dados em ideias, ideias em soluções.<br>Engenheira de Dados em constante evolução, trabalhando com Python, SQL e análise de dados, enquanto aprendo e exploro serviços da AWS Cloud.<br>Este GitHub é meu cantinho para projetos, estudos e descobertas 🚀✨</h5>
+<h4 align="center">Transformando dados em ideias, ideias em soluções.<br>Engenheira de Dados em constante evolução, trabalhando com Python, SQL e análise de dados, enquanto aprendo e exploro serviços da AWS Cloud.<br>Este GitHub é meu cantinho para projetos, estudos e descobertas 🚀✨</h4>
 
 ###
 
