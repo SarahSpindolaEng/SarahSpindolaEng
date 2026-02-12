@@ -4,7 +4,7 @@
 
 <h3 align="center">Engenheira de Dados & Cloud</h3>
 
-<h3 align="center">[![Portfolio](https://img.shields.io/badge/Portfolio-Sarah%20Giulia-blue?style=flat-square&logo=firefox)](https://sarahspindolaeng.github.io/Portfolio)</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sarah%20Giulia-blue?style=flat-square&logo=firefox)](https://sarahspindolaeng.github.io/Portfolio)
 
 ###
 
